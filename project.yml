@@ -1,0 +1,56 @@
+_prefs: 
+  baselayer: ''
+  mapid: james-lane-conkling.e78b500f
+  print: true
+  saveCenter: true
+_properties: {}
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 88.4789
+  - 27.6562
+  - 10
+description: ''
+format: "png8:m=h:c=128"
+interactivity_layer: ''
+layers: 
+  - landcover
+  - landuse
+  - contour.line
+  - hillshade
+  - waterway
+  - water
+  - aeroway
+  - barrier_line
+  - building
+  - landuse_overlay
+  - tunnel
+  - road
+  - bridge
+  - admin
+  - country_label_line
+  - country_label
+  - marine_label
+  - state_label
+  - place_label
+  - water_label
+  - poi_label
+  - road_label
+  - waterway_label
+  - housenum_label
+  - contour.label
+maxzoom: 18
+minzoom: 4
+name: Hypsometric
+source: "mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+  - road.mss
+  - label.mss
+  - palette.mss
+  - terrain.mss
+template: ''
